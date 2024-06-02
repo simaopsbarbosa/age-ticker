@@ -2,6 +2,9 @@
 
 age-ticker is a python app that lets you watch your life tick away in real-time. it calculates your age down to the decimal, so you can obsess over every passing moment.
 
+![Screen Recording 2024-06-02 at 18 42 49](https://github.com/simaopsbarbosa/age-ticker/assets/117586175/90b2cae5-b153-413e-878e-74f97409278e)
+
+
 ## features
 
 - depressing real-time age calculation.
