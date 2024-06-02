@@ -30,9 +30,6 @@ hours: 12
 minutes: 0
 ```
 
-## license
-
-this project is licensed under the mit license. use it, modify it, whatever. just don't blame me if you get too depressed.
 
 ---
 
